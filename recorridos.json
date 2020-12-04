@@ -1,0 +1,112 @@
+[
+     {
+          "id": "1",
+          "origenX": 0,
+          "origenY": 100,
+          "destinoX": 100,
+          "destinoY": 100,
+          "velocidad": 90,
+          "colorR": 200,
+          "colorG": 200,
+          "colorB": 100
+     },
+     {
+          "id": "2",
+          "origenX": 0,
+          "origenY": 100,
+          "destinoX": 200,
+          "destinoY": 150,
+          "velocidad": 90,
+          "colorR": 200,
+          "colorG": 60,
+          "colorB": 100
+     },
+     {
+          "id": "3",
+          "origenX": 100,
+          "origenY": 100,
+          "destinoX": 300,
+          "destinoY": 0,
+          "velocidad": 45,
+          "colorR": 50,
+          "colorG": 200,
+          "colorB": 100
+     },
+     {
+          "id": "4",
+          "origenX": 100,
+          "origenY": 100,
+          "destinoX": 200,
+          "destinoY": 150,
+          "velocidad": 60,
+          "colorR": 10,
+          "colorG": 0,
+          "colorB": 0
+     },
+     {
+          "id": "5",
+          "origenX": 300,
+          "origenY": 0,
+          "destinoX": 200,
+          "destinoY": 150,
+          "velocidad": 20,
+          "colorR": 200,
+          "colorG": 200,
+          "colorB": 100
+     },
+     {
+          "id": "6",
+          "origenX": 300,
+          "origenY": 0,
+          "destinoX": 50,
+          "destinoY": 0,
+          "velocidad": 50,
+          "colorR": 200,
+          "colorG": 60,
+          "colorB": 100
+     },
+     {
+          "id": "7",
+          "origenX": 50,
+          "origenY": 0,
+          "destinoX": 0,
+          "destinoY": 100,
+          "velocidad": 25,
+          "colorR": 10,
+          "colorG": 0,
+          "colorB": 0
+     },
+     {
+          "id": "8",
+          "origenX": 100,
+          "origenY": 100,
+          "destinoX": 50,
+          "destinoY": 0,
+          "velocidad": 15,
+          "colorR": 120,
+          "colorG": 20,
+          "colorB": 20
+     },
+     {
+          "id": "9",
+          "origenX": 0,
+          "origenY": 100,
+          "destinoX": 0,
+          "destinoY": 200,
+          "velocidad": 100,
+          "colorR": 0,
+          "colorG": 80,
+          "colorB": 20
+     },
+     {
+          "id": "10",
+          "origenX": 200,
+          "origenY": 150,
+          "destinoX": 0,
+          "destinoY": 200,
+          "velocidad": 10,
+          "colorR": 50,
+          "colorG": 200,
+          "colorB": 100
+     }
+]
